@@ -36,4 +36,4 @@ Defensive security isn't passive. It requires active monitoring, fast analysis, 
 
 ---
 
-*Write-up by Ambrogio Shelton-Bailey | [GitHub](https://github.com/AmbrogioBailey) | [LinkedIn](https://linkedin.com/in/ambrogiobailey)*
+*Write-up by Ambrogio Bailey | [GitHub](https://github.com/AmbrogioBailey) | [LinkedIn](https://linkedin.com/in/ambrogiobailey)*
