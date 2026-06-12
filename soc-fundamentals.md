@@ -44,4 +44,4 @@ SOC work isn't just about detecting threats — it's about asking the right ques
 
 ---
 
-*Write-up by Ambrogio Shelton-Bailey | [GitHub](https://github.com/AmbrogioBailey) | [LinkedIn](https://linkedin.com/in/ambrogiobailey)*
+*Write-up by Ambrogio Bailey | [GitHub](https://github.com/AmbrogioBailey) | [LinkedIn](https://linkedin.com/in/ambrogiobailey)*
